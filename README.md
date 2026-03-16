@@ -1,4 +1,4 @@
 # tanishfirst
 this is my first git repository.
 <br>
-Author - Tainsh saini
+Author - Tainsh saini(hello)
